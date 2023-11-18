@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fig>
+    <Name>Квадрат</Name>
+    <FigId1>10</FigId1>
+    <FigId2>55</FigId2>
+  </Fig>
+  <Fig>
+    <Name>Квадрат</Name>
+    <FigId1>56</FigId1>
+    <FigId2>23</FigId2>
+  </Fig>
+  <Fig>
+    <Name>Прямоугольник</Name>
+    <FigId1>100</FigId1>
+    <FigId2>100000</FigId2>
+  </Fig>
+</ArrayOfFig>

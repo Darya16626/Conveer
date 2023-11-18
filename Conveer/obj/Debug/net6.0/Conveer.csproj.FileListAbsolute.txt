@@ -1,0 +1,17 @@
+C:\Users\adv_m\source\repos\Conveer\Conveer\bin\Debug\net6.0\Conveer.exe
+C:\Users\adv_m\source\repos\Conveer\Conveer\bin\Debug\net6.0\Conveer.deps.json
+C:\Users\adv_m\source\repos\Conveer\Conveer\bin\Debug\net6.0\Conveer.runtimeconfig.json
+C:\Users\adv_m\source\repos\Conveer\Conveer\bin\Debug\net6.0\Conveer.dll
+C:\Users\adv_m\source\repos\Conveer\Conveer\bin\Debug\net6.0\Conveer.pdb
+C:\Users\adv_m\source\repos\Conveer\Conveer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\Conveer.csproj.AssemblyReference.cache
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\Conveer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\Conveer.AssemblyInfoInputs.cache
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\Conveer.AssemblyInfo.cs
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\Conveer.csproj.CoreCompileInputs.cache
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\Conveer.csproj.CopyComplete
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\Conveer.dll
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\refint\Conveer.dll
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\Conveer.pdb
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\Conveer.genruntimeconfig.cache
+C:\Users\adv_m\source\repos\Conveer\Conveer\obj\Debug\net6.0\ref\Conveer.dll
